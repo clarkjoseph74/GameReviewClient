@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Game Review Client Web app
 
 The application created using : Typescript , Next.js , TailwindCss and shadcn ui
+
+
 API : .Net core web api [Github Repository](https://github.com/clarkjoseph74/GamesApi/)
 
 
